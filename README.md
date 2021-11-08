@@ -32,3 +32,8 @@ partially-ERC20-compliant;
 ● A full compatible ERC20 Token must implement 6 functions and 2 events.
 
 ● There are thousands of ERC20 token contracts defined: https://etherscan.io/tokens
+
+Contributors: 
+<a href="https://github.com/phyBrackets/Python/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=phyBrackets/ERC-20-Token"/>
+</a>
