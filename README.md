@@ -33,4 +33,7 @@ partially-ERC20-compliant;
 
 ● There are thousands of ERC20 token contracts defined: https://etherscan.io/tokens
 
-
+Contributors: 
+<a href="https://github.com/phyBrackets/ERC-20-Token/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=phyBrackets/ERC-20-Token"/>
+</a>
